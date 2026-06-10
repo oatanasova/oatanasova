@@ -1,4 +1,4 @@
-<h1> Hello and welcome 👋 </h1>
+<h1> Hello and welcome! 🤗 This is going to be fun, right? </h1>
 
 <!--
 **oatanasova/oatanasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-My name is Ogi and I'm new here... I mean in the world of Software Development
+My name is Ogi and I'm new here... I mean in the world of Software Development. 
 
-- 🔭 I’m currently working on ... building myselfe
+Generally, I work in the field of ITSM - process onboarding, end-to-end governance, SIPs & CIMs. I've learned and applied Lean Six Sigma and adopted Agile methodologies..
+There's probably more, but I'm not very good writing under pressure 🤭
+
 - 🌱 I’m currently learning ... JavaScript in SoftUni & ServiceNow Data Foundations
-- 🤔 I’m looking for help with ... anything, really
-- ⚡ Fun fact: ... when the code won't code, I crochet plush toys and pretty bags 
+  
+- ⚡ Fun fact: ... when the code won't code, I crochet plush toys and pretty bags 😲
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
