@@ -28,6 +28,7 @@ There's probably more, but I'm not very good writing under pressure 🤭
   
 - ⚡ Fun fact: ... when the code won't code, I crochet plush toys and pretty bags 😲
 
+&nbsp;
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
